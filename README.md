@@ -7,7 +7,7 @@
  
  simple.py is python dag file.
 
-                                        Airflow (Environment in gpu2 is airflow)
+                                  
 For installation of Airflow Refer to below link
 
 https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html
